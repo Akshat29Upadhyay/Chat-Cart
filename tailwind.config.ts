@@ -11,9 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lama: "#F35C7A",
       },
     },
+    
+
   },
-  plugins: [],
+  plugins: [require("tailwindcss-animate")],
 };
 export default config;
