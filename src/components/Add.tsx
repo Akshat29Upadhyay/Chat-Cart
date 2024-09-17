@@ -29,7 +29,7 @@ const Add = () => {
             <button className="cursor-pointer text-xl"onClick={()=>handleQuantity("i")}>+</button>
         </div>
         <div className="text-xs">
-            Only <span className="text-orange-500">4 items</span> left! <br/> Don't miss it
+            Only <span className="text-orange-500">4 items</span> left! <br/> Don&apos;t miss it
         </div>
         </div>
       

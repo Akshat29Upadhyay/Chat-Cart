@@ -1,5 +1,5 @@
 "use client";
-import Sample from "../components/sample";
+// import Sample from "../components/sample";
 import Slider from "../components/Slider";
 import ProductList from "@/components/ProductList";
 import CategoryList from "@/components/CategoryList";

@@ -1,10 +1,9 @@
 "use client";
 
-import { div } from "framer-motion/client";
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+import {  useRouter } from "next/navigation";
+import {  useState } from "react";
 import CartModal from "./CartModal";
 const NavIcons = () => {
 

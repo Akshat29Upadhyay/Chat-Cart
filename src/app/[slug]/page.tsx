@@ -1,4 +1,4 @@
-import Image from "next/image"
+// import Image from "next/image"
 import ProductImages from "@/components/ProductImages"
 import CustomizeProducts from "@/components/CustomizeProducts"
 import Add from "@/components/Add"
